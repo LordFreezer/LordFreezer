@@ -1,2 +1,5 @@
-<!--<embed type="text/html" src="https://superchadman.netlify.app/" width="800" height="600" />-->
-[Game](https://superchadman.netlify.app "@embed")
+<h3 align="left">Languages</h3>
+<h3 align="left">Frameworks</h3>
+<h3 align="left">Libraries</h3>
+<h3 align="left">Editors and Tools</h3>
+
