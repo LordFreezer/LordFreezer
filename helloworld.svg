@@ -6,6 +6,6 @@
 >
   <text font-size="16" x="10" y="20">
     <tspan fill="#d37b1d">Hello</tspan>,
-    <tspan fill="green">world</tspan>!
+    <tspan>world</tspan>!
   </text>
 </svg>
