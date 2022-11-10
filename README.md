@@ -14,7 +14,7 @@
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />         
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />       
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />   
-            <img width="40" height="40" src="https://projects.eclipse.org/sites/default/files/36201228_10.png">
+            <img width="100" height="50" src="https://jakarta.ee/images/jakarta/jakarta-ee-logo-color.svg">
 </p>            
 </td>
 <td>
