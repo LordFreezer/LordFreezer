@@ -6,6 +6,6 @@
 >
   <text font-size="32" x="10" y="20">
     <tspan fill="white">Visit My</tspan>,
-    <tspan fill="#d37b1d">Portfolio</tspan>!
+    <tspan fill="orange">Portfolio</tspan>!
   </text>
 </svg>
