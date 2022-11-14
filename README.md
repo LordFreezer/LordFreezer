@@ -1,7 +1,7 @@
 <a href="https://thederflinger.com/" target="_blank"><img src="https://github.com/LordFreezer/LordFreezer/blob/main/helloworld.svg"/></a>
 <table>
 <tr>
-<td>
+<td colspan="2">
 <h3 align="left">Languages</h3>
 <p>          
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />       
@@ -18,12 +18,19 @@
             <img width="40" height="40" src="https://github.com/LordFreezer/LordFreezer/blob/main/bash.svg">
 </p>            
 </td>
+</tr>
+<tr>
 <td>
-<h3 align="left">DevOps / Hosting</h3>
+<h3 align="left">DevOps</h3>
 <p>
             <img width="45" height="35" src="https://phoenixnap.com/wp-content/uploads/2017/11/aws_logo_smile_white-250x163.png" />                  
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />       
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+</p>            
+</td>
+<td>
+<h3 align="left">Hosting</h3>
+<p>          
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />        
             <img width="40" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" />           
             <img width="70" height="40" src="https://pages.github.com/images/logo.svg"/>
