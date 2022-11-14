@@ -71,7 +71,8 @@
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
             <img width="40" height="40" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/eclipse-icon.png">
             <img width="40" height="40" src="https://netbeans.apache.org/images/apache-netbeans.svg">     
-            <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />  
+            <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /> 
+            <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/1280px-Gnu-nano.svg.png" />
  </p>          
 </td>
 <td>
