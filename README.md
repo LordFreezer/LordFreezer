@@ -16,6 +16,7 @@
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />   
             <img width="100" height="50" src="https://jakarta.ee/images/jakarta/jakarta-ee-logo-color.svg">
             <img width="40" height="40" src="https://github.com/LordFreezer/LordFreezer/blob/main/bash.svg">
+            <img width="40" height="40" src="https://github.com/LordFreezer/LordFreezer/blob/main/powershell.svg" />
 </p>            
 </td>
 </tr>
