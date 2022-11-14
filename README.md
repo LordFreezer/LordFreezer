@@ -15,7 +15,6 @@
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />       
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />   
             <img width="100" height="50" src="https://jakarta.ee/images/jakarta/jakarta-ee-logo-color.svg">
-            <img width="40" height="40" src="https://raw.github.com/LordFreezer/LordFreezer/blob/main/bash.svg">
 </p>            
 </td>
 <td>
