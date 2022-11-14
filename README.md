@@ -14,7 +14,7 @@
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />         
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />       
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />   
-            <img width="100" height="50" src="https://jakarta.ee/images/jakarta/jakarta-ee-logo-color.svg">
+            <img width="100" height="50" src="https://jakarta.ee/images/jakarta/jakarta-ee-logo-color.svg">         
 </p>            
 </td>
 <td>
@@ -49,7 +49,8 @@
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
             <img width="40" height="40" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/eclipse-icon.png">
-            <img width="40" height="40" src="https://netbeans.apache.org/images/apache-netbeans.svg">
+            <img width="40" height="40" src="https://netbeans.apache.org/images/apache-netbeans.svg">     
+            <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />  
  </p>            
 </td>
 </tr>
