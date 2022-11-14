@@ -63,7 +63,7 @@
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
             <img width="40" height="40" src="https://azurecomcdn.azureedge.net/cvt-ffeb70ec274b24d42faa2ef66e67c256a878fdd4efa9e63641b8820e633ea0cf/svg/azure-sql-database.svg"/>
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-            <img width="50" height="50" src="https://github.com/LordFreezer/LordFreezer/blob/main/sql_server.svg" />
+            <img width="40" height="40" src="https://github.com/LordFreezer/LordFreezer/blob/main/sql_server.svg" />
 </p>         
 </td>
 <td>
