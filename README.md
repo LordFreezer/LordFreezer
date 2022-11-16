@@ -38,7 +38,8 @@
 <p>          
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />        
             <img width="40" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" />           
-            <img width="70" height="40" src="https://pages.github.com/images/logo.svg"/>
+            <img width="70" height="40" src="https://pages.github.com/images/logo.svg"/>          
+            <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />        
 </p>            
 </td>
 </tr>
