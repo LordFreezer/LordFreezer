@@ -39,7 +39,9 @@
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />        
             <img width="40" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" />           
             <img width="70" height="40" src="https://pages.github.com/images/logo.svg"/>          
-            <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />        
+            <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+            <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
+            <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg" />
 </p>            
 </td>
 </tr>
@@ -81,8 +83,7 @@
  <p>
             <img width="40" height="40" src="https://www.icons101.com/icons/29/Malismus_20_by_Xtaehl/128/unity.png" />
             <img width="40" height="40" src="https://dradisframework.com/images/integrations/deployment/virtualbox.png">    
-            <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />       
-            <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />      
+            <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />   
             <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />   
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />       
