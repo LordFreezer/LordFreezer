@@ -15,7 +15,7 @@
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />       
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />   
             <img width="100" height="50" src="https://jakarta.ee/images/jakarta/jakarta-ee-logo-color.svg">
-            <img width="40" height="40" src="https://github.com/LordFreezer/LordFreezer/blob/main/bash.svg">
+            <img width="40" height="40" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/512x512.png">
             <img width="40" height="40" src="https://github.com/LordFreezer/LordFreezer/blob/main/powershell.svg" />
 </p>            
 </td>
@@ -38,7 +38,7 @@
 <p>          
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />        
             <img width="40" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" />           
-            <img width="70" height="40" src="https://pages.github.com/images/logo.svg"/>          
+            <img width="40" height="40" src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png"/>          
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
             <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg" />
@@ -62,7 +62,7 @@
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
             <img width="40" height="40" src="https://azurecomcdn.azureedge.net/cvt-ffeb70ec274b24d42faa2ef66e67c256a878fdd4efa9e63641b8820e633ea0cf/svg/azure-sql-database.svg"/>
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-            <img width="45" height="45" src="https://github.com/LordFreezer/LordFreezer/blob/main/sql_server.svg" />
+            <img width="45" height="40" src="https://www.jing.fm/clipimg/full/29-291748_sql-server-logo-microsoft-png-microsoft-sql-server.png" />
 </p>         
 </td>
 </tr>
