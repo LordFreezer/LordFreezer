@@ -30,7 +30,7 @@
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> 
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" />
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />   
-            <img width="100" height="40" src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" />   
+            <img width="40" height="40" src="https://defkey.com/content/images/program/reveal.js-2020-05-28_09-58-06-icon-resized.png" />   
 </p>          
 </td>
 <td>
@@ -38,7 +38,7 @@
 <p>          
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />        
             <img width="40" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" />           
-            <img width="40" height="40" src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png"/>          
+            <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/>          
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
             <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg" />
@@ -62,7 +62,7 @@
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
             <img width="40" height="40" src="https://azurecomcdn.azureedge.net/cvt-ffeb70ec274b24d42faa2ef66e67c256a878fdd4efa9e63641b8820e633ea0cf/svg/azure-sql-database.svg"/>
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-            <img width="45" height="40" src="https://www.jing.fm/clipimg/full/29-291748_sql-server-logo-microsoft-png-microsoft-sql-server.png" />
+            <img width="38" height="40" src="https://global-uploads.webflow.com/5f8b0a1abe69652278dad51c/60ad31855d774e813c23d35b_microsoft%20sql%20server%20logo.png" />
 </p>         
 </td>
 </tr>
