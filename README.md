@@ -38,7 +38,7 @@
 <p>          
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />        
             <img width="40" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" />           
-            <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/>          
+            <img width="40" height="40" src="https://raw.githubusercontent.com/LordFreezer/LordFreezer/main/cat.png"/>          
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
             <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg" />
