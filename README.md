@@ -1,11 +1,13 @@
 <!--<a href="https://thederflinger.com/" target="_blank"><img src="https://github.com/LordFreezer/LordFreezer/blob/main/helloworld.svg"/></a>-->
 <!--[![](https://github.com/LordFreezer/LordFreezer/blob/main/helloworld.svg#gh-dark-mode-only)](https://thederflinger.com/#gh-dark-mode-only)
 [![](https://github.com/LordFreezer/LordFreezer/blob/main/helloworldlight.svg#gh-light-mode-only)](https://thederflinger.com/#gh-light-mode-only)-->
+<a href="https://thederflinger.com/" target="_blank">
 <picture>
-            <source media="(prefers-color0scheme: dark)" srcset="https://github.com/LordFreezer/LordFreezer/blob/main/helloworld.svg">
-            <source media="(prefers-color0scheme: light)" srcset="https://github.com/LordFreezer/LordFreezer/blob/main/helloworldlight.svg">
-            <a href="https://thederflinger.com/" target="_blank"><img src="https://github.com/LordFreezer/LordFreezer/blob/main/helloworld.svg"/></a>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LordFreezer/LordFreezer/blob/main/helloworld.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://github.com/LordFreezer/LordFreezer/blob/main/helloworldlight.svg">
+            <img src="https://github.com/LordFreezer/LordFreezer/blob/main/helloworld.svg"/>
 </picture>
+</a>
 <table>
 <tr>
 <td colspan="2">
