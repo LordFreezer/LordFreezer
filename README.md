@@ -1,4 +1,6 @@
-<a href="https://thederflinger.com/" target="_blank"><img src="https://github.com/LordFreezer/LordFreezer/blob/main/helloworld.svg"/></a>
+<!--<a href="https://thederflinger.com/" target="_blank"><img src="https://github.com/LordFreezer/LordFreezer/blob/main/helloworld.svg"/></a>-->
+[![](https://github.com/LordFreezer/LordFreezer/blob/main/helloworld.svg#gh-dark-mode-only)](https://thederflinger.com/#gh-dark-mode-only)
+[![](https://github.com/LordFreezer/LordFreezer/blob/main/helloworldlight.svg#gh-light-mode-only)](https://thederflinger.com/#gh-light-mode-only)
 <table>
 <tr>
 <td colspan="2">
