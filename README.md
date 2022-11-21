@@ -4,7 +4,7 @@
 <picture>
             <source media="(prefers-color0scheme: dark)" srcset="https://github.com/LordFreezer/LordFreezer/blob/main/helloworld.svg">
             <source media="(prefers-color0scheme: light)" srcset="https://github.com/LordFreezer/LordFreezer/blob/main/helloworldlight.svg">
-            <a href="https://thederflinger.com/" target="_blank"><img src="https://github.com/LordFreezer/LordFreezer/blob/main/helloworld.svg"/>
+            <a href="https://thederflinger.com/" target="_blank"><img src="https://github.com/LordFreezer/LordFreezer/blob/main/helloworld.svg"/></a>
 </picture>
 <table>
 <tr>
